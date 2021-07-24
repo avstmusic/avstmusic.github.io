@@ -272,6 +272,14 @@ a:hover{
   color: white;
 }
 
+.solirmx{
+  background-image: url("assets/SolitudeCoverRemix.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  color: white;
+}
+
 
 
 .vpp{
